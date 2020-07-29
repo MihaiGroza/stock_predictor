@@ -1,7 +1,7 @@
 # Stock Predictor
 
 #### Motivation
-Predicting stock movement 3 days in the future using Recurrent Neural Networks. We will use historical prices and volumes of SP500, Apple and Microsft
+Predicting stock movement 3 days in the future using Recurrent Neural Networks. In this case, we will use historical prices and volumes of SP500, Apple and Microsoft
 to predict if the stock of Microsoft will go up or down in 3 days. The sequences of the RNN will be 20 days.
 
 
